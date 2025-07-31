@@ -1,0 +1,7 @@
+{
+  "name": "AetherNotes – Multimodal PKM",
+  "description": "AetherNotes is a multimodal personal knowledge system to create notes, connect ideas visually, transcribe voice, and capture drawings, all stored in a living graph.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
